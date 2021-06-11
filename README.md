@@ -8,8 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/YelenaDolgopolova/Java1_1/issues/2
-* ссылка на описание дефекта
-
+* https://github.com/YelenaDolgopolova/Java1_1/issues/1
 
 ## Описание процесса тестирования
 
