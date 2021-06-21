@@ -7,14 +7,14 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/YelenaDolgopolova/Java1_1/issues/2
-* https://github.com/YelenaDolgopolova/Java1_1/issues/1
+* [Issues 1](https://github.com/YelenaDolgopolova/Java1_1/issues/2).
+* [Issues 2](https://github.com/YelenaDolgopolova/Java1_1/issues/1).
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Код программы с сайта https://github.com/netology-code/javaqa-homeworks/tree/master/intro
-* Номера карт с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html
+* [Код программы с сайта](https://github.com/netology-code/javaqa-homeworks/tree/master/intro).
+* [Номера карт с сайта](https://www.freeformatter.com/credit-card-number-generator-validator.html).
 
 В качестве тестовых данных использовались данные карт:
 * "3745186120959344" невалидная карта
@@ -22,6 +22,6 @@
 * "5354710917947082" валидая карта
 
 Тестирование производилось в следующем окружении:
-* ASUS, Windows 7, 64 - разрядная ОСверсия и разрядность ОС
+* ASUS, Windows 7, 64 - разрядная ОС
 * версия Java 8
 * IDEA Ultimate
