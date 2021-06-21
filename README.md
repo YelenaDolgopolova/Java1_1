@@ -13,8 +13,8 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Код программы
-* Номера карт
+* Код программы с сайта https://github.com/netology-code/javaqa-homeworks/tree/master/intro
+* Номера карт с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 В качестве тестовых данных использовались данные карт:
 * "3745186120959344" невалидная карта
